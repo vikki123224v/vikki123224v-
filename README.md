@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/vighneshwara-s-ab894a380"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/Vighneshwara_2005/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="mailto:vighneshwaras283@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="./vighneshwara.pdf"><img src="https://img.shields.io/badge/Resume-View-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+<a href="https://raw.githubusercontent.com/vikki123224v/vikki123224v-/main/vighneshwara.pdf"><img src="https://img.shields.io/badge/Resume-View-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 </div>
 
 ## About Me
