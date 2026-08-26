@@ -21,6 +21,7 @@ I am a Computer Science undergraduate interested in full-stack development, AI i
 - **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS
 - **Backend and APIs:** Node.js, Express.js, REST APIs, Spring Boot
 - **Databases:** PostgreSQL, MySQL, MongoDB, Supabase
+- **AI:** Google Gemini API, RunAnywhere SDK, Prompt Engineering
 - **Tools:** Git, GitHub, VS Code, Postman, Figma, Vercel, Netlify, Docker
 
 ## Featured Projects
