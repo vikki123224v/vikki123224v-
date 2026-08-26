@@ -31,6 +31,12 @@ An AI-powered investment platform designed to bridge the gap between startups an
 
 **Stack:** TypeScript, Next.js, React, Tailwind CSS, Supabase/PostgreSQL, Google Gemini, NextAuth, Zod
 
+### [Timetable Management System](https://github.com/vikki123224v/Mini_Project_Final_2025.git)
+
+A full-stack web application for managing college timetables, teachers, subjects, and classrooms with automatic timetable generation and conflict detection.
+
+**Stack:** React, Vite, Tailwind CSS, Node.js, Express.js, MySQL, JWT, bcrypt
+
 ### [Queue Management System](https://github.com/vikki123224v/Queue_Management_System)
 
 A generic single-queue system where clients take tokens and staff call people in order. Token numbering is handled with PostgreSQL transactions, with MongoDB for activity and audit logs and Redis for queue-status caching and rate limiting.
